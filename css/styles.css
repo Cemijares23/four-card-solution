@@ -46,11 +46,6 @@ p{
 .container {
     margin: 5rem auto;
 }
-@media (min-width: 76.8rem) {
-    .container {
-        margin: 4rem auto;
-    }
-}
 
 /* Heading */
 .heading {
